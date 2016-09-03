@@ -1,19 +1,4 @@
-name: Absolutely Fuzzy
-favicon: null
-layout_spectrum: 0.9157232900615782
 typography_spectrum: 0.9037308245897293
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.028195718536153436
   saturation: 0.23214536951854825
   rhythmicContrast: 0.7551404442638159
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9157232900615782
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Absolutely Fuzzy
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Fuzzy
 purpose: []
